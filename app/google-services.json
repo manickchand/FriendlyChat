@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "998090527867",
+    "firebase_url": "https://fir-notificacao-bc4ab.firebaseio.com",
+    "project_id": "fir-notificacao-bc4ab",
+    "storage_bucket": "fir-notificacao-bc4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998090527867:android:d1134f5f886215fb",
+        "android_client_info": {
+          "package_name": "br.com.manickchand.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998090527867-7ro4jeb7aoliqq8tsg10qm9c39gci23m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.manickchand.friendlychat",
+            "certificate_hash": "6cb0bd60d92fe753f85b55932de10f02fd284ee0"
+          }
+        },
+        {
+          "client_id": "998090527867-1nteeridvm4q9hmrm776ttti1nhvkuq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwnlpN74aDZuSsMNozeVwFxhA1XaL09A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998090527867-1nteeridvm4q9hmrm776ttti1nhvkuq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
